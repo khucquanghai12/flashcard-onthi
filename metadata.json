@@ -1,0 +1,7 @@
+{
+  "name": "FlashCard",
+  "description": "Một ứng dụng flashcard thông minh với 10 minigame và tính năng luyện nói AI sử dụng Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
